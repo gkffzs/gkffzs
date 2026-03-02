@@ -1,4 +1,4 @@
-## Intro
+## About
 I am a web developer at <a href="https://www.pointblank.gr/en" target="_blank" class="intro__logo"><img src="/assets/images/pointblank.png" alt="Point Blank"></a>, a cooperative web & design agency in Greece.
 
 ## Connect
