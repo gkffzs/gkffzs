@@ -1,6 +1,6 @@
 ## About
-* I am a web developer at <a href="https://www.pointblank.gr/en" target="_blank" class="intro__logo"><img src="/assets/images/pointblank.png" alt="Point Blank"></a>, a cooperative web & design agency in Greece.
-* Current account is used for professional & archive reasons, my active projects are on <a href="https://gitlab.com/gkffzs" target="_blank">GitLab</a>.
+* I am a web developer at <a href="https://www.pointblank.gr/en" target="_blank" class="intro__logo"><img src="/assets/images/pointblank.png" alt="Point Blank"></a>, a design & web agency in Greece.
+* Current account is used for professional & archive reasons, I am mainly on <a href="https://gitlab.com/gkffzs" target="_blank">GitLab</a> nowadays.
 
 ## Connect
 <a href="https://www.linkedin.com/in/gkffzs/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-004182?&style=for-the-badge" /></a>
